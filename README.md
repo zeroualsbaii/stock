@@ -1,5 +1,5 @@
 ## About Application
 <p>
-C'est une application web developpée sous Laravel à usage ludique.
-dans cette application vous aiderez à maitrise les bases du framework php Laravel.
+This is a web application developed under Laravel for learning purposes.
+In this application you will help to master the basics of the php Laravel framework.
 </p>
