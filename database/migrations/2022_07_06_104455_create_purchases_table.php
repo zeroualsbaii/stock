@@ -16,7 +16,7 @@ return new class extends Migration
         Schema::create('purchases', function (Blueprint $table) {
             $table->id();
             $table->foreignId('supplier_id')->constrained();
-            $table->date('purchase_date')->default(new DateTime());
+            $table->date('purchase_date');
             $table->timestamps();
         });
     }
